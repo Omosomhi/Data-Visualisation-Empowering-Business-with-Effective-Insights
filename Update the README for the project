@@ -17,14 +17,14 @@ In this task, I was required to choose the right charts based upon need such as 
   
 <details><summary>Task 3: Creating Effective Visuals</summary> <br>
 
-In this task, I created [visuals](tata) around four of the questions that the CEO and CMO have requested.
+In this task, I created [visuals](Tata) around four of the questions that the CEO and CMO have requested.
 
 **Data cleanup** <br>
-The following steps were taken to clean the [data](Online Retail Data Set), using data transformation methods to get rid of the bad data:<br>
+The following steps were taken to clean the [data](OnlineRetailDataSet), using data transformation methods to get rid of the bad data:<br>
 • Create a check that the quantity should not be below 1 unit <br>
 • Create a check that the Unit price should not be below $0 <br>
 
-**Questions from the CEO and CMO**
+**Questions from the CEO and CMO** <br>
 Question 1<br>
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 
