@@ -17,10 +17,10 @@ In this task, I was required to choose the right charts based upon need such as 
   
 <details><summary>Task 3: Creating Effective Visuals</summary> <br>
 
-In this task, I created [visuals](Tata) around four of the questions that the CEO and CMO have requested.
+In this task, I created [visuals](Tata.pbix) around four of the questions that the CEO and CMO have requested.
 
 **Data cleanup** <br>
-The following steps were taken to clean the [data](OnlineRetailDataSet), using data transformation methods to get rid of the bad data:<br>
+The following steps were taken to clean the [data](OnlineRetailDataSet.xlsx), using data transformation methods to get rid of the bad data:<br>
 • Create a check that the quantity should not be below 1 unit <br>
 • Create a check that the Unit price should not be below $0 <br>
 
